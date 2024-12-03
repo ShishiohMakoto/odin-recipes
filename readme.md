@@ -1,1 +1,2 @@
-This will be for future reflection, after the project is finished
+Easy enough, I suppose. For the HTML, I created a template according to the instructions, and then copy/pasted it for every recipe page, filling it with the appopriate details.
+The most challenging part was actually working with Git. I tried to stick to the lessons and do "atomic" commits as best I could. I made a typo in a message, which made me search for a way to correct them. I found a solution that didn't satisfy me completely, so I will study this issue later.
